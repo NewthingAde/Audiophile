@@ -1,0 +1,37 @@
+
+
+
+.img1{
+    transform: translateY(-5rem);
+    filter: drop-shadow(10px 10px 10px grey,
+    10px 5px);
+    width: 123px;
+    height: 160px;
+    margin-left: 100px;
+}
+
+
+.img2{
+    transform: translateY(-5rem);
+    filter: drop-shadow(10px 10px 10px grey,
+    10px 5px);
+    width: 122px;
+    height: 146px;
+    margin-left: 100px;
+}
+
+.img3{
+    transform: translateY(-4rem);
+    filter: drop-shadow(10px 10px 10px grey,
+    10px 5px);
+    width: 125px;
+    height: 126px;
+    margin-left: 100px;
+}
+
+
+.backgound{
+    width: 350px;
+    height: 250px;
+    background: #F1F1F1;
+} 

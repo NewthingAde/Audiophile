@@ -1,0 +1,71 @@
+
+.marks{
+    font-size: 5rem;
+}
+
+.exp{
+    font-size: 20px;
+}
+
+.np{
+    letter-spacing: 10px;
+}
+
+.see_product{
+    background-color: #FBAF85;
+    height: 48px;
+    width: 160px;
+}
+.see_product2{
+    height: 48px;
+    width: 160px;
+}
+
+.bg_image{
+    background-image: url(./headphone.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.home_product{
+    margin-bottom: 200px;
+}
+
+ .ZX9{
+    margin-top: 200px;
+    background-color: #D87D4A;
+}
+
+.imgs1{
+    transform: translateY(1.5rem);
+    width: 410.23px;
+    height: 493px;
+
+}
+
+ .bg_image2{
+    background-image: url(./image_speaker.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 320px;
+    width: 1110px;
+} 
+
+
+
+.imgd{
+height: 320px;
+width: 1110px;
+}
+
+.ear_phone{
+    height: 320px;
+    width: 540px;
+}
+.ear_phone2{
+    background-color: #F1F1F1;
+    padding: 120px;
+
+}
+
