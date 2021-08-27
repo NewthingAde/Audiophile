@@ -44,4 +44,4 @@ The Project exposed me to new CSS properties I haven't used before such as trans
 I will love to focus more on the Backend and Database for the project and other projects too.
 
  ## Deployement
-I deploy the and host the website on Firebase
+I deploy the website on Github and host it on Firebase
