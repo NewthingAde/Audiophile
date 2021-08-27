@@ -26,18 +26,22 @@ The project is a hard task and it took me three weeks to complete. It has helped
 - CSS 
 - Flexbox
 - CSS Grid
-- Boostrap
+- Bootstrap
 -  React  (https://reactjs.org/) - JS library
 - Redux
 - Material-Ul (https://material-ui.com)
 - Javascript
+- Firebase
  
 
 
 ## What I learned
- The project makes me understand better how powerful React.js is. I learnt how to use Bootstrap with React without using React-Boostrap dependencies and I also understand better how Redux works. I was able 
+The project makes me understand better how powerful React.js. I learnt how to use Bootstrap with React without using React-Bootstrap dependencies and I also understand better how Redux works. I was able 
 The Project exposed me to new CSS properties I haven't used before such as transform: translateY(-5rem).
 
 
  ## Continued development
 I will love to focus more on the Backend and Database for the project and other projects too.
+
+ ## Deployement
+I deploy the and host the website on Firebase
